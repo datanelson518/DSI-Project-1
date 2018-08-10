@@ -7,6 +7,4 @@ Research: One of the reasons for the ACT having higher participation is because 
 
 Recommendation: Target the states with the lower ACT exam scores with the argument that this exam is probably not the optimal exam for their students.
 
-Reasoning: From looking at the data the states with lower ACT exam scores actually had better SAT scores and weren't far off from the maximum SAT score from all of the states.Standardized Testing Participation Exploration
-  
 Reasoning: From looking at the data the states with lower ACT exam scores actually had better SAT scores and weren't far off from the maximum SAT score from all of the states.
